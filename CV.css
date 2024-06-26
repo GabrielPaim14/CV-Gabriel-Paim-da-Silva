@@ -2,14 +2,20 @@ body {
     background-color: yellow;
     font-family: 'Segoe UI', Arial;
     text-align: center;
+    margin-bottom: 20px;
+    border-radius: 50px;
 }
 
 header {
     color: white;
     background-color: purple;
+    margin-bottom: 20px;
+    border-radius: 50px;
 }
 
 .section-title {
     color: purple;
     text-align: center;
+    margin-bottom: 20px;
+    border-radius: 50px;
 }
