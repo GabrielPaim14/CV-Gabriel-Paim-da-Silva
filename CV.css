@@ -1,0 +1,15 @@
+body {
+    background-color: yellow;
+    font-family: 'Segoe UI', Arial;
+    text-align: center;
+}
+
+header {
+    color: white;
+    background-color: purple;
+}
+
+.section-title {
+    color: purple;
+    text-align: center;
+}
